@@ -139,7 +139,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://bconsreal.blogspot.com/";
+	window.location="https://https://sonha20296.blogspot.com/";
 var linkhientai=window.location;
 if(getCookie(linkhientai)){
                 	
